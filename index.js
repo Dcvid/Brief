@@ -30,7 +30,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching Pen Brief"];
+const statusMessages = ["Watching Brief"];
 
 
 let currentIndex = 0;
